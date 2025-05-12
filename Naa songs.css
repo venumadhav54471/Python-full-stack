@@ -13,9 +13,8 @@ p{
 }
 .cont1{
     background-color:black;
-    width:872px;
-    height:90vh;
     margin-top: 50px;
+    background-size:cover;
 }
 
 .cont2{
@@ -74,5 +73,4 @@ span{
     background-color:black;
     color:white;
     width:80vw;
-    font-size:30px;
 }
