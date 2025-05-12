@@ -15,8 +15,6 @@ p{
     background-color:black;
     width:872px;
     height:90vh;
-    margin-left:315px;
-    margin-right:315px;
     margin-top: 50px;
 }
 
@@ -30,14 +28,14 @@ p{
 
 
 .hrtag{
-    margin-left: 350px;
-    margin-right: 350px;
+
     text-decoration:none;
     color:black;
+
 }
 
 .ogh2{
-    text-align:center;
+    text-align: center;
     margin-top:15px;
 }
 
@@ -60,8 +58,10 @@ span{
 }
 
 .Home{
-   text-decoration: none;
-    color:black; 
+    color:black;
+    text-decoration: none;
+    font-weight:bold;
+    padding:10px;
 }
 
 .teaser{
@@ -73,6 +73,5 @@ span{
     margin-top:80px;
     background-color:black;
     color:white;
-    margin-left:350px;
-    margin-right:350px;
+    width:50vw;
 }
