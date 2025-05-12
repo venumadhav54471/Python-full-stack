@@ -1,7 +1,8 @@
 .Naasongsh1{
 text-align:center;
-font-family: "sans-serif";
-font-weight: bolder;
+font-family:"roboto";
+font-weight: bold;
+margin: 25px;
 }
 
 h1{
@@ -13,13 +14,13 @@ p{
 }
 .cont1{
     background-color:black;
-    margin-top: 50px;
     background-size:cover;
 }
 
 .cont2{
-    margin-left:20px;
     margin-top:20px;
+    margin-left:20px;
+    margin-right:20px;
     font-size:15px;
     color:white;
     text-decoration:none;
