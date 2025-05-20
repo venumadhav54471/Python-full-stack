@@ -4,3 +4,65 @@
     border-radius:5px;
     background-color: yellow;
 }
+
+/* .T6cont1{
+    background-color:black;
+    background-size:cover;
+    height:100vh;
+    width:100vw;
+    color:white;
+} */
+
+.formscont1{
+    background-color:white;
+    padding:15px;
+    background-size:cover;
+    height:32vh;
+    width: 30vw;
+    border-radius: 5px;
+}
+
+.Uspacing{
+    margin:10px;
+}
+
+.Pspacing{
+    margin:12px;
+}
+
+.Bspacing{
+    margin-left:10px;
+    margin-top:20px;
+    height:40px;
+    width:280px;
+    background-color:blue;
+    color:white;
+    border-radius:5px;
+}
+
+.fspacing{
+    margin-left:170px;
+    margin-top:20px;
+}
+
+.formscont2{
+    background-image:url("https://t3.ftcdn.net/jpg/09/61/27/48/360_F_961274808_fX06eKzHJDCX9LO1Uew8YsL8Gk7RDZBu.jpg");
+    background-size: cover;
+    height:100vh;
+    width:100vw;
+    color:white;
+}
+
+.details{
+    margin-left:30px;
+    margin-top:30px;
+}
+
+.summary{
+    font-size:30px;
+}
+
+.episode{
+    font-size:20px;
+    margin-top:30px;
+}
