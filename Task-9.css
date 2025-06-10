@@ -1,0 +1,32 @@
+.Display{
+    padding:10px;
+    text-align:center;
+}
+img{
+    height:400px;
+    width:280px;
+}
+h1{
+    font-size:25px;
+    margin-top:10px;
+    
+}
+.side-spacing{
+    padding:0px;
+    margin:0px;
+}
+h1,p{
+    font-family: "Karma", sans-serif;
+}
+p{
+    font-size:15px;
+}
+.h1{
+    font-size:30px;
+    text-align:center;
+    font-family: "Karma", sans-serif;
+    background-color:yellow;
+    border-style:solid;
+    margin:20px 168px;
+    padding:20px;
+}
